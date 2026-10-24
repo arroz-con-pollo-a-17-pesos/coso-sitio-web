@@ -1,0 +1,37 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background-color: lightblue;
+}
+
+h1{
+    color:rgb(48, 134, 87);
+    font-size: 36px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    color:rgb(87, 148, 172);
+    font-size: 20px;
+    text-align: left;
+}
+
+p{
+    color:rgb(58, 93, 126);
+    font-size: 20px;
+}
+
+ul{
+    color:rgb(75, 121, 163);
+    font-size: 18px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+a{
+    color:rgb(0, 0, 107)
+}
